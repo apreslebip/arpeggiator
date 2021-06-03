@@ -9,6 +9,8 @@ int progPin = 6;
 int outPin = 9;
 int rootPin = A0;
 
+
+
 // clock related
 float BPM = 0.0;
 bool IgnoreReading = false;
